@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "6fe65530643a8fa6",
+            "id": "a4fdd3bab0f9b9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "WHY THE HELL AM I IN HEAVEN/WHY THE HELL AM I IN HEAVEN - GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "WHY THE HELL AM I IN HEAVEN - GDD"
             }
           }
         ],
@@ -198,11 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6fe65530643a8fa6",
+  "active": "fd32b7a48a331360",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Ke.md",
+    "WHY THE HELL AM I IN HEAVEN",
     "Untitled.md",
-    "Untitled"
+    "Untitled.base",
+    "WHY THE HELL AM I IN HEAVEN/WHY THE HELL AM I IN HEAVEN - GDD.md"
   ]
 }
